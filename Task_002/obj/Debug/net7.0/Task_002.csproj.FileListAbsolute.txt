@@ -1,0 +1,14 @@
+D:\6. Geekbrains\01_Основной блок\Знакомство с языками программирования (семинары в записи)\Tasks\Lesson1\Hw5\Task_002\bin\Debug\net7.0\Task_002.exe
+D:\6. Geekbrains\01_Основной блок\Знакомство с языками программирования (семинары в записи)\Tasks\Lesson1\Hw5\Task_002\bin\Debug\net7.0\Task_002.deps.json
+D:\6. Geekbrains\01_Основной блок\Знакомство с языками программирования (семинары в записи)\Tasks\Lesson1\Hw5\Task_002\bin\Debug\net7.0\Task_002.runtimeconfig.json
+D:\6. Geekbrains\01_Основной блок\Знакомство с языками программирования (семинары в записи)\Tasks\Lesson1\Hw5\Task_002\bin\Debug\net7.0\Task_002.dll
+D:\6. Geekbrains\01_Основной блок\Знакомство с языками программирования (семинары в записи)\Tasks\Lesson1\Hw5\Task_002\bin\Debug\net7.0\Task_002.pdb
+D:\6. Geekbrains\01_Основной блок\Знакомство с языками программирования (семинары в записи)\Tasks\Lesson1\Hw5\Task_002\obj\Debug\net7.0\Task_002.GeneratedMSBuildEditorConfig.editorconfig
+D:\6. Geekbrains\01_Основной блок\Знакомство с языками программирования (семинары в записи)\Tasks\Lesson1\Hw5\Task_002\obj\Debug\net7.0\Task_002.AssemblyInfoInputs.cache
+D:\6. Geekbrains\01_Основной блок\Знакомство с языками программирования (семинары в записи)\Tasks\Lesson1\Hw5\Task_002\obj\Debug\net7.0\Task_002.AssemblyInfo.cs
+D:\6. Geekbrains\01_Основной блок\Знакомство с языками программирования (семинары в записи)\Tasks\Lesson1\Hw5\Task_002\obj\Debug\net7.0\Task_002.csproj.CoreCompileInputs.cache
+D:\6. Geekbrains\01_Основной блок\Знакомство с языками программирования (семинары в записи)\Tasks\Lesson1\Hw5\Task_002\obj\Debug\net7.0\Task_002.dll
+D:\6. Geekbrains\01_Основной блок\Знакомство с языками программирования (семинары в записи)\Tasks\Lesson1\Hw5\Task_002\obj\Debug\net7.0\refint\Task_002.dll
+D:\6. Geekbrains\01_Основной блок\Знакомство с языками программирования (семинары в записи)\Tasks\Lesson1\Hw5\Task_002\obj\Debug\net7.0\Task_002.pdb
+D:\6. Geekbrains\01_Основной блок\Знакомство с языками программирования (семинары в записи)\Tasks\Lesson1\Hw5\Task_002\obj\Debug\net7.0\Task_002.genruntimeconfig.cache
+D:\6. Geekbrains\01_Основной блок\Знакомство с языками программирования (семинары в записи)\Tasks\Lesson1\Hw5\Task_002\obj\Debug\net7.0\ref\Task_002.dll
